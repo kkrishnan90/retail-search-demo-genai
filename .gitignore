@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+backend/env
+backend/key.json
+backend/app_master_copy.py
+frontend/node_modules
